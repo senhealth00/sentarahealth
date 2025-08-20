@@ -1,12 +1,12 @@
 ---
 layout: home
 title: "Sentara Healthcare"
-[Sentara Healthcare](https://www.sentara.com)
+
 
 ---
 
 # Sentara Healthcare
-
+[Sentara Healthcare](https://www.sentara.com)
 Welcome to the official Sentara Healthcare website powered by Jekyll and GitHub Pages.
 
 Explore our content, services, and resources to learn more about how Sentara Healthcare delivers excellence in care and innovation.
