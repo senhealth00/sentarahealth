@@ -22,3 +22,5 @@ Sentara Healthcare is dedicated to improving health every day. We provide except
 ---
 
 *This site is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).*
+SECRET_KEY=supersecretvalue12345
+OPEN_AI_KEY=sk-nighthowfordnum142343
